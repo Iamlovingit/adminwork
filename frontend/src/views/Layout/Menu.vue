@@ -1,5 +1,5 @@
 <template>
-  <router-view/>
+    <h2>导航菜单</h2>
 </template>
 
 <script setup>
